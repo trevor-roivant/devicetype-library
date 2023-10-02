@@ -1,0 +1,32 @@
+---
+manufacturer: Check Point
+model: SG4600
+slug: check-point-sg4600
+part_number: SG4600
+u_height: 1
+is_full_depth: false
+comments: ''
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+console-ports:
+  - name: console
+    type: rj-45
+interfaces:
+  - name: ethernet1/1
+    type: 1000base-t
+  - name: ethernet1/2
+    type: 1000base-t
+  - name: ethernet1/3
+    type: 1000base-t
+  - name: ethernet1/4
+    type: 1000base-t
+  - name: ethernet1/5
+    type: 1000base-t
+  - name: ethernet1/6
+    type: 1000base-t
+  - name: ethernet1/7
+    type: 1000base-t
+  - name: ethernet1/8
+    type: 1000base-t
+ 
