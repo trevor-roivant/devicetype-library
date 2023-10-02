@@ -18,10 +18,12 @@ interfaces:
   - name: management
     type: 1000base-t
     mgmt_only: true
-  - name: ha1
+  - name: ha1-a
     type: 1000base-t
-  - name: ha2
+  - name: ha1-b
     type: 1000base-t
+  - name: hsci
+    type: 10gbase-x-sfpp
   - name: ethernet1/1
     type: 1000base-t
   - name: ethernet1/2
